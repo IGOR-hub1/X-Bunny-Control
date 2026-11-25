@@ -6,3 +6,5 @@ public/login.js
 public/login.css
 public/panel.css
 .vercel/
+.env*
+!.env.example
